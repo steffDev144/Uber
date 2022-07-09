@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Oceanic Next",
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDragAndDrop": false,
+    "liveSassCompile.settings.formats": [
+    
+    
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/src/css"
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": [
+        ">1%",
+        "last 2 versions"
+    ]
+}
